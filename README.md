@@ -1,1 +1,2 @@
-# self-learning_tic-tac-toe
+# Self-Learning Tic-Tac-Toe
+Self-Learning Tic-Tac-Toe in Python
